@@ -1,0 +1,55 @@
+/* CSS Document */
+
+body {
+	background-color: #000000;
+}
+
+h1 {
+	color: #000000;
+	text-align: center;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	padding-top: 5px;	
+}
+
+h2 {
+	color: #000000;
+	padding-left: 5px;	
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+}
+
+
+p {
+	color: #FFFFFF;
+	padding-left: 7px;
+}
+
+ul {
+	color: #FFFFFF;
+}
+
+footer {
+	color: #FFFFFF;
+	padding-left: 5px;
+}
+
+#container {
+	background-color: #0D2E92;
+	width: 800px;
+	margin: auto;
+	padding-bottom: 5px;	
+}
+
+a:link {color: #ACFF00}
+a:hover {color: #FF0066}
+
+#link {
+	text-align: center;
+}
+
+li {
+	margin-bottom: 25px;
+}
+
+a {
+  color: #ACFF00
+}
