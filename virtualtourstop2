@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Virtual Tour</title>
+<link href="style.css" rel="stylesheet" type="text/css">
+</head>
+
+
+<body>
+<div id="container3">
+	
+<h1>Stop #2: Mesopelagic Zone (Twilight Zone)</h1>
+
+<table align="center">
+      <tr>
+        <td class="nav"><p><a class="page2" href="https://2020spring19.github.io/virtualtour.html">Home</a></p></td>
+        <td class="nav"><p><a class="page2" href="https://2020spring19.github.io/virtualtourstop1.html">Epipelagic Zone</a></p></td>
+        <td class="nav"><p><a class="page2" href="https://www.kenoshachc.org/2018/06/11/know-5-components-physical-fitness/">Bathypelagic Zone</a></p></td>
+        <td class="nav"><p><a class="page2" href="https://www.kenoshachc.org/2018/06/11/know-5-components-physical-fitness/">Abyssopelagic Zone</a></p></td>
+        <td class="nav"><p><a class="page2" href="https://www.kenoshachc.org/2018/06/11/know-5-components-physical-fitness/">Hadalpelagic Zone</a></p></td>
+      </tr>
+    </table>
+
+	
+<p>You have reached the second stop of your virtual tour! Read below to learn about the second of the five layers of the ocean, the mesopelagic zone.</p>
+<br>
+<p>Below the epipelagic zone is the mesopelagic zone. It extends from 200 meters (656 feet) to 1,000 meters (3,281 feet). The temperature of this layer varies from over 68° Fahrenheit at the upper layers to around 39° Fahrenheit at the boundary with the layer beneath it, the bathypelagic zone. The mesopelagic zone is sometimes referred to as the twilight zone. The light that penetrates to this depth is extremely faint. It is in this zone that we begin to see the twinkling lights of bioluminescent creatures. A great diversity of strange and bizarre fishes can be found here. Other animals that live in this layer include shrimp, squid, snipe eels, jellyfish, and zooplankton.
+</p>
+   
+<img src="https://photos.demandstudios.com/getty/article/163/241/71042561.jpg" alt="Photo Of Mesopelagic Zone" width="325" height="235" class="photo">	
+
+<img src="https://www.whoi.edu/wp-content/uploads/2019/03/Caiger_collage-1-1024x576.jpg" alt="Picture Of Animals That Live In Mesopelagic Zone" width="325" height="235" class="photo">	
+
+<br>
+
+<table align="center">
+<tr>
+<td align="right"><a href="https://validator.w3.org/nu/?doc=https%3A//2020spring19.github.io/accessibility.html"><img src="https://raw.githubusercontent.com/2020spring19/2020spring19.github.io/master/valid_html5_blue.png" width="160" height="30" alt="HTML Validation Badge"/></a></td>
+<td align="left"><a href="https://jigsaw.w3.org/css-validator/validator?uri=2020spring19.github.io/accessibility.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en"><img src="https://raw.githubusercontent.com/2020spring19/2020spring19.github.io/master/valid_css3_blue.png" width="160" height="30" alt="CSS Validation Badge"/></a></td>
+</tr>
+</table>	
+<footer>
+	<h3>© Spring 2020 #19</h3>
+	</footer>
+	
+	</div>
+</body>
+</html>
