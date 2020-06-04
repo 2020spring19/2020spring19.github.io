@@ -82,4 +82,7 @@ td {
 
 #container1 {
   background-color: #29bbd9;
+	width: 800px;
+	margin: auto;
+	padding-bottom: 5px;
 }
