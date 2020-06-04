@@ -56,14 +56,13 @@ a {
 table {
   width: 600px;
   text-align: center;
-  padding-left: 2px;
 }
 
 img {
   margin-bottom: 20px;
 }
 
-td {
+.nav {
   background-color: #FFFFFF;
   text-align: center;
   font-family: "Arial Black", Gadget, sans-serif;
@@ -77,23 +76,18 @@ td {
 }
 
 
-.center {
-    width: 50%;
-    float: left;
-    text-align: center;
-}
 
-img {
+
+.photo {
     width: 50%;
     float: left;
     text-align: center;
-    padding-right: 350px;
-    padding-left: 350px;
 }	
 
 #container1 {
   background-color: #29bbd9;
-	width: 800px;
+  width: 900px;
 	margin: auto;
 	padding-bottom: 5px;
 }
+
