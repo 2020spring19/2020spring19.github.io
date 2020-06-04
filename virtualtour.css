@@ -53,6 +53,12 @@ a:hover {color: #e6e600}
   text-align: center;
 }
 
+.page2 {
+  color: #1088eb;
+  font-family: "Arial Black", Gadget, sans-serif;
+  text-align: center;
+}
+
 table {
   width: 600px;
   text-align: center;
@@ -91,3 +97,9 @@ img {
 	padding-bottom: 5px;
 }
 
+#container2 {
+  background-color: #1088eb;
+  width: 900px;
+	margin: auto;
+	padding-bottom: 5px;
+}
