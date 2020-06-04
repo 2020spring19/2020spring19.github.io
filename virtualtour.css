@@ -22,6 +22,7 @@ p {
 	color: #FFFFFF;
 	padding-left: 7px;
   font-family: Noto Sans, sans-serif;
+	text-align: center;
 }
 
 ol {
@@ -33,6 +34,7 @@ footer {
 	color: #FFFFFF;
 	padding-left: 5px;
   font-family: Noto Sans, sans-serif;
+	text-align: center;
 }
 
 
@@ -74,7 +76,7 @@ td {
 }
 
 
-.center {
+.img {
     width: 50%;
     float: left;
     text-align: center;
