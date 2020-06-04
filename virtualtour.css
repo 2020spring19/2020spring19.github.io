@@ -77,6 +77,16 @@ a:hover {color: #e6e600}
   text-align: center;
 }
 
+.page6 {
+  color: #070c24;
+  font-family: "Arial Black", Gadget, sans-serif;
+  text-align: center;
+}
+
+#id {
+  color: #000000;
+}
+
 table {
   width: 600px;
   text-align: center;
@@ -136,6 +146,13 @@ img {
 
 #container5 {
   background-color: #0a1233;
+  width: 900px;
+	margin: auto;
+	padding-bottom: 5px;
+}
+
+#container6 {
+  background-color: #070c24;
   width: 900px;
 	margin: auto;
 	padding-bottom: 5px;
