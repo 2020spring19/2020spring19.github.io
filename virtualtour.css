@@ -71,6 +71,12 @@ a:hover {color: #e6e600}
   text-align: center;
 }
 
+.page5 {
+  color: #0a1233;
+  font-family: "Arial Black", Gadget, sans-serif;
+  text-align: center;
+}
+
 table {
   width: 600px;
   text-align: center;
@@ -92,8 +98,6 @@ img {
   padding-top: 10px;
   padding-bottom: 10px;
 }
-
-
 
 
 .photo {
@@ -125,6 +129,13 @@ img {
 
 #container4 {
   background-color: #0c2970;
+  width: 900px;
+	margin: auto;
+	padding-bottom: 5px;
+}
+
+#container5 {
+  background-color: #0a1233;
   width: 900px;
 	margin: auto;
 	padding-bottom: 5px;
